@@ -16,7 +16,9 @@ export default function App() {
           ☀️
         </span>
       </h2>
-      borrowers loiter, reverse amortize the balance sheet. Biden screwed us, so
+      borrowers loiter ("Nearly half of the year, you are working for this [free
+      rider mutable ]government," then the other two thirds for the homes and
+      corporates), reverse amortize the balance sheet. Biden screwed us, so
       let's sanction their Nordstrem
       <br />
       self-gentrifiers{" "}
