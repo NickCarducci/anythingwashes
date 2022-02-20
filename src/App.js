@@ -16,6 +16,7 @@ export default function App() {
           ☀️
         </span>
       </h2>
+      borrowers loiter, reverse amortize the balance sheet
     </div>
   );
 }
