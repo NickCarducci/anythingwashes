@@ -18,6 +18,10 @@ export default function App() {
       </h2>
       borrowers loiter, reverse amortize the balance sheet. Biden screwed us, so
       let's sanction their Nordstrem
+      <br />
+      self-gentrifiers{" "}
+      <a href="https://truncatedsalestax.com/gov">NEED MY HELL</a>. only frodo
+      declines the ability to be King, and vig-rent-visa
     </div>
   );
 }
