@@ -23,7 +23,11 @@ export default function App() {
       <br />
       self-gentrifiers{" "}
       <a href="https://truncatedsalestax.com/gov">NEED MY HELL</a>. only frodo
-      declines the ability to be King, and vig-rent-visa
+      declines the ability to be King, and vig-rent-visa.
+      <br />
+      <br />
+      (cash/debt)*income every year back; Take account of income amortize
+      reverse
     </div>
   );
 }
