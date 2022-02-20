@@ -35,6 +35,23 @@ export default function App() {
       landlord, lender or insurer; competing with consumer borrower force
       majeure intent to boot standing) geohash/mo spoofable precinct 3% under
       $2k protocol
+      <br />
+      <br />
+      Microeconomists use the word, ‘economic welfare,’ to describe the output
+      by efficiency or productivity (income/hour)/home of Supply and Labor
+      (Demand), all else in a market being dead-weight-box of a lower quality
+      and less partial consumers setting price, like a price control when supply
+      already equates demand (x-axis is literally economic-welfare, that I’ve
+      likened to enumerate as [productive-]efficiency,{" "}
+      <a href="https://fred.stlouisfed.org/graph/?g=Llrn">GDP/hour-GDP/p</a>
+      ).
+      <br />
+      Pennywise{" "}
+      <a href="https://fred.stlouisfed.org/graph/?g=M9j8">gentrification</a> for
+      a pound of assets/productive-ward, they are quite opposites, for social
+      welfare, Supply != Labor, and a dead-weight-box ensues.
+      <br />
+      Social welfare now means practically investment bank welfare.
     </div>
   );
 }
