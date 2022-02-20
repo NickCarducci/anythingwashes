@@ -95,7 +95,7 @@ export default function App() {
       <br />
       <br />
       Profit over the wrong investors/partners... lest it be an actual perpetual
-      motion machine, with zero operating costs, is it not rent-seekable.
+      motion machine, with zero operating costs, it is rent-seekable.
     </div>
   );
 }
