@@ -16,7 +16,8 @@ export default function App() {
           ☀️
         </span>
       </h2>
-      borrowers loiter, reverse amortize the balance sheet
+      borrowers loiter, reverse amortize the balance sheet. Biden screwed us, so
+      let's sanction their Nordstrem
     </div>
   );
 }
