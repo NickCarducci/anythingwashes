@@ -76,9 +76,10 @@ export default function App() {
       target margin, quality, duress by price there works like Obamacare
       investment bank, pennywise tying to mean inflation, which excludes assets/
       productive-ward, as with poverty inflation/income, that better is seen as
-      (income/hour)/home, minimal viable product and max-royalty by 1 or 11/12
-      industry regime of “collateral” (reverse amortize cash/debt)*income every
-      year back, not to ignore actual income.
+      (income/hour)/home, minimal viable product and max-royalty by 1 or{" "}
+      <a href="https://vaults.biz/gmu">11/12</a> industry regime of “collateral”
+      (reverse amortize cash/debt)*income every year back, not to ignore actual
+      income.
       <br />
       <br />
       <span role="img" aria-label="soap">
