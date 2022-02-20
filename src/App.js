@@ -16,6 +16,8 @@ export default function App() {
           ☀️
         </span>
       </h2>
+      free rider mutable operational monopsony
+      <br />
       borrowers loiter ("Nearly half of the year, you are working for this [free
       rider mutable ]government," then the other two thirds for the homes and
       corporates), reverse amortize the balance sheet. Biden screwed us, so
@@ -62,6 +64,18 @@ export default function App() {
       Communism deprives no man of the power to appropriate the products of
       society; all that it does is to deprive him of the power to subjugate the
       labour of others by means of such appropriations.
+      <br />
+      <br />
+      Freedom means sewage police lawsuits Article 1.8 bond-tax non hypocrisy
+      trust monopsony equal in scope and receipt by flat flat tax if you like,
+      truncated production tax, spectrum/bridge/pipelines, operational
+      monopsony, but still free rider mutable, so target margin, quality, duress
+      by price there works like Obamacare investment bank, pennywise tying to
+      mean inflation, which excludes assets/ productive-ward, as with poverty
+      inflation/income, that better is seen as (income/hour)/home, minimal
+      viable product and max-royalty by 1 or 11/12 industry regime of
+      “collateral” (reverse amortize cash/debt)*income every year back, not to
+      ignore actual income,
     </div>
   );
 }
