@@ -52,6 +52,16 @@ export default function App() {
       welfare, Supply != Labor, and a dead-weight-box ensues.
       <br />
       Social welfare now means practically investment bank welfare.
+      <br />
+      <br />
+      Vulgar socialism (and from it in turn a section of the democrats) has
+      taken over distribution as production[, not productive-ward]. After the
+      real relation has long been made clear, why retrogress again?
+      <br />
+      <br />
+      Communism deprives no man of the power to appropriate the products of
+      society; all that it does is to deprive him of the power to subjugate the
+      labour of others by means of such appropriations.
     </div>
   );
 }
