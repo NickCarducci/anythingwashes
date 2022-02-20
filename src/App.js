@@ -1,6 +1,9 @@
 import "./styles.css";
 
 export default function App() {
+  const frmStyle = {
+    color: "orange"
+  };
   return (
     <div
       style={{
@@ -16,12 +19,12 @@ export default function App() {
           ☀️
         </span>
       </h2>
-      free rider mutable operational monopsony
+      <span style={frmStyle}>free rider mutable</span> operational monopsony
       <br />
-      borrowers loiter ("Nearly half of the year, you are working for this [free
-      rider mutable ]government," then the other two thirds for the homes and
-      corporates), reverse amortize the balance sheet. Biden screwed us, so
-      let's sanction their Nordstrem
+      borrowers loiter ("Nearly half of the year, you are working for this [
+      <span style={frmStyle}>free rider mutable</span> ]government," then the
+      other two thirds for the homes and corporates), reverse amortize the
+      balance sheet. Biden screwed us, so let's sanction their Nordstrem
       <br />
       self-gentrifiers{" "}
       <a href="https://truncatedsalestax.com/gov">NEED MY HELL</a>. only frodo
@@ -69,13 +72,30 @@ export default function App() {
       Freedom means sewage police lawsuits Article 1.8 bond-tax non hypocrisy
       trust monopsony equal in scope and receipt by flat flat tax if you like,
       truncated production tax, spectrum/bridge/pipelines, operational
-      monopsony, but still free rider mutable, so target margin, quality, duress
-      by price there works like Obamacare investment bank, pennywise tying to
-      mean inflation, which excludes assets/ productive-ward, as with poverty
-      inflation/income, that better is seen as (income/hour)/home, minimal
-      viable product and max-royalty by 1 or 11/12 industry regime of
-      “collateral” (reverse amortize cash/debt)*income every year back, not to
-      ignore actual income,
+      monopsony, but still <span style={frmStyle}>free rider mutable</span>, so
+      target margin, quality, duress by price there works like Obamacare
+      investment bank, pennywise tying to mean inflation, which excludes assets/
+      productive-ward, as with poverty inflation/income, that better is seen as
+      (income/hour)/home, minimal viable product and max-royalty by 1 or 11/12
+      industry regime of “collateral” (reverse amortize cash/debt)*income every
+      year back, not to ignore actual income.
+      <br />
+      <br />
+      <span role="img" aria-label="soap">
+        🧼
+      </span>
+      derivative is average over time of two correlates, bivariate makes it
+      uncaused FOOL.
+      <br />
+      <br />
+      Nearly half of the year, you are working for this{" "}
+      <span style={frmStyle}>free rider mutable</span> government, then the
+      other two thirds for the homes and corporates Guys who would have never
+      gotten this amount nor been involved in such volume before: racket.
+      <br />
+      <br />
+      Profit over the wrong investors/partners... lest it be an actual perpetual
+      motion machine, with zero operating costs, is it not rent-seekable.
     </div>
   );
 }
