@@ -28,6 +28,13 @@ export default function App() {
       <br />
       (cash/debt)*income every year back; Take account of income amortize
       reverse
+      <br />
+      <br />
+      transaction-fee-based-sdr (security depositary receipt or "special drawing
+      rights" without donee beneficiary surrendered freedom, contractor liable
+      landlord, lender or insurer; competing with consumer borrower force
+      majeure intent to boot standing) geohash/mo spoofable precinct 3% under
+      $2k protocol
     </div>
   );
 }
